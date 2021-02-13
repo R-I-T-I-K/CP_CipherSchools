@@ -4,7 +4,7 @@
 1.  Find Majority Element (Medium)
 2.  Find Peak Element In Array (Medium)
 3.  Search in the sorted matrix (Medium)
-4   Find first and last positions of an element in a sorted array (Medium)
+4.  Find first and last positions of an element in a sorted array (Medium)
 5.  C/C++ Program for Segregate 0s and 1s in an array (Easy)
 6.  Sort 0 1 2 (Medium)
 7.  Alternative Sorting (Easy)
