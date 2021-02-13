@@ -1,6 +1,6 @@
 ## *Assignments* -Code Not Added Till Now
 
-0.  Two people meet each other (Easy)
+0.  [Two people meet each other (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/A.%20Two%20people%20meet%20each%20other%20(Easy))
 1.  Find Majority Element (Medium)
 2.  Find Peak Element In Array (Medium)
 3.  Search in the sorted matrix (Medium)
