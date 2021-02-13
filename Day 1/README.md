@@ -1,4 +1,4 @@
-## *Assignments* Code Not Added Till Now
+## *Assignments* -Code Not Added Till Now
 
 0.  Two people meet each other (Easy)
 1.  Find Majority Element (Medium)
