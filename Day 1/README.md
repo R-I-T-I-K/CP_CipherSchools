@@ -17,7 +17,7 @@
 15. [ ] Largest Sum Contiguous Subarray (Medium)
 16. [ ] Minimum Number of Platforms Required for a Railway/Bus Station (Medium)
 17. [x] [Find the Missing Number (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/Q.%20Find%20the%20Missing%20Number%20(Easy))
-18. [ ] Merge two sorted arrays (Easy)
+18. [x] [Merge two sorted arrays (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/R.%20Merge%20two%20sorted%20arrays%20(Easy))
 19. [ ] Search an element in a sorted and rotated array (Medium)
 20. [ ] Create a dynamic array (Medium)
 21. [ ] Find the smallest window in a string containing all characters of another string (Hard)
