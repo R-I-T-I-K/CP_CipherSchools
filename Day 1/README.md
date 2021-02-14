@@ -1,7 +1,7 @@
 ## *Assignments* -Code Not Added Till Now
 
 1.  [x] [Two people meet each other (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/A.%20Two%20people%20meet%20each%20other%20(Easy))
-2.  [ ] Find Majority Element (Medium)
+2.  [x] [Find Majority Element (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/B.%20Find%20Majority%20Element%20(Medium))
 3.  [ ] Find Peak Element In Array (Medium)
 4.  [ ] Search in the sorted matrix (Medium)
 5.  [ ] Find first and last positions of an element in a sorted array (Medium)
