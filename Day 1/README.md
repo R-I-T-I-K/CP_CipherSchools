@@ -6,7 +6,7 @@
 4.  [x] [Search in the sorted matrix (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/D.%20Search%20in%20the%20sorted%20matrix%20(Medium))
 5.  [x] [Find first and last positions of an element in a sorted array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/E.%20Find%20first%20and%20last%20positions%20of%20an%20element%20in%20a%20sorted%20array%20(Medium))
 6.  [x] [C/C++ Program for Segregate 0s and 1s in an array (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/F.%20Segregate%200s%20and%201s%20in%20an%20array%20(Easy))
-7.  [ ] Sort 0 1 2 (Medium)
+7.  [x] [Sort 0 1 2 (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/G.%20Sort%200%201%202%20(Medium))
 8.  [x] [Alternative Sorting (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/H.%20Alternative%20Sorting%20(Easy))
 9.  [ ] K smallest Elements (Hard)
 10. [ ] Counting Inversions (Hard)
