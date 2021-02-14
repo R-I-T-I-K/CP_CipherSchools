@@ -3,7 +3,7 @@
 1.  [x] [Two people meet each other (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/A.%20Two%20people%20meet%20each%20other%20(Easy))
 2.  [x] [Find Majority Element (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/B.%20Find%20Majority%20Element%20(Medium))
 3.  [x] [Find Peak Element In Array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/C.%20Find%20Peak%20Element%20In%20Array%20(Medium))
-4.  [ ] Search in the sorted matrix (Medium)
+4.  [x] [Search in the sorted matrix (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/D.%20Search%20in%20the%20sorted%20matrix%20(Medium))
 5.  [ ] Find first and last positions of an element in a sorted array (Medium)
 6.  [x] [C/C++ Program for Segregate 0s and 1s in an array (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/F.%20Segregate%200s%20and%201s%20in%20an%20array%20(Easy))
 7.  [ ] Sort 0 1 2 (Medium)
