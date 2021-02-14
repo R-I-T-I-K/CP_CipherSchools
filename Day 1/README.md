@@ -16,7 +16,7 @@
 14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
 15. [ ] Largest Sum Contiguous Subarray (Medium)
 16. [ ] Minimum Number of Platforms Required for a Railway/Bus Station (Medium)
-17. [ ] Find the Missing Number (Easy)
+17. [x] [Find the Missing Number (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/Q.%20Find%20the%20Missing%20Number%20(Easy))
 18. [ ] Merge two sorted arrays (Easy)
 19. [ ] Search an element in a sorted and rotated array (Medium)
 20. [ ] Create a dynamic array (Medium)
