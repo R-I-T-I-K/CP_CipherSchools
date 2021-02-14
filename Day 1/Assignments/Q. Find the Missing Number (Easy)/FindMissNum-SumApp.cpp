@@ -17,5 +17,7 @@ int main()
    }
 
    int sum1=accumulate(arr1.begin(),arr1.end(),0);
+   
+   //finally subtracting
    cout<<sum1-sum;
 }
