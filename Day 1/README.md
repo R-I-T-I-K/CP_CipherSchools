@@ -7,7 +7,7 @@
 5.  [ ] Find first and last positions of an element in a sorted array (Medium)
 6.  [x] [C/C++ Program for Segregate 0s and 1s in an array (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/F.%20Segregate%200s%20and%201s%20in%20an%20array%20(Easy))
 7.  [ ] Sort 0 1 2 (Medium)
-8.  [ ] Alternative Sorting (Easy)
+8.  [x] [Alternative Sorting (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/H.%20Alternative%20Sorting%20(Easy))
 9.  [ ] K smallest Elements (Hard)
 10. [ ] Counting Inversions (Hard)
 11. [ ] GeeksForGeeks - Trapping Rain Water (Hard)
