@@ -15,7 +15,7 @@
 13. [x] [Print a given matrix in the spiral form (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/M.%20Print%20a%20given%20matrix%20in%20the%20spiral%20form%20(Medium))
 14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
 15. [x] [Largest Sum Contiguous Subarray (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/O.%20Largest%20Sum%20Contiguous%20Subarray%20(Medium))
-16. [ ] Minimum Number of Platforms Required for a Railway/Bus Station (Medium)
+16. [x] [Minimum Number of Platforms Required for a Railway/Bus Station (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%201/Assignments/P.%20Minimum%20Number%20of%20Platforms%20Required%20for%20a%20Railway%20Station%20(Medium))
 17. [x] [Find the Missing Number (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/Q.%20Find%20the%20Missing%20Number%20(Easy))
 18. [x] [Merge two sorted arrays (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/R.%20Merge%20two%20sorted%20arrays%20(Easy))
 19. [ ] Search an element in a sorted and rotated array (Medium)
