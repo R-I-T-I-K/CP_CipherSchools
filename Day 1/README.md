@@ -8,7 +8,7 @@
 6.  [x] [C/C++ Program for Segregate 0s and 1s in an array (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/F.%20Segregate%200s%20and%201s%20in%20an%20array%20(Easy))
 7.  [x] [Sort 0 1 2 (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/G.%20Sort%200%201%202%20(Medium))
 8.  [x] [Alternative Sorting (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/H.%20Alternative%20Sorting%20(Easy))
-9.  [ ] K smallest Elements (Hard)
+9.  [x] [K smallest Elements (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/I.%20K%20smallest%20Elements%20(Hard))
 10. [ ] Counting Inversions (Hard)
 11. [ ] GeeksForGeeks - Trapping Rain Water (Hard)
 12. [x] [Stock Buy Sell to Maximize Profit (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/L.%20Stock%20Buy%20Sell%20to%20Maximize%20Profit%20(Medium))
