@@ -10,7 +10,7 @@
 8.  [x] [Alternative Sorting (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/H.%20Alternative%20Sorting%20(Easy))
 9.  [x] [K smallest Elements (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/I.%20K%20smallest%20Elements%20(Hard))
 10. [x] [Counting Inversions (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/J.%20Counting%20Inversions%20(Hard))
-11. [ ] GeeksForGeeks - Trapping Rain Water (Hard)
+11. [x] [GeeksForGeeks - Trapping Rain Water (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/K.%20Trapping%20Rain%20Water%20(Hard))
 12. [x] [Stock Buy Sell to Maximize Profit (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/L.%20Stock%20Buy%20Sell%20to%20Maximize%20Profit%20(Medium))
 13. [x] [Print a given matrix in the spiral form (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/M.%20Print%20a%20given%20matrix%20in%20the%20spiral%20form%20(Medium))
 14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
