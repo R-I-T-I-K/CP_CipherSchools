@@ -11,7 +11,7 @@
 9.  [ ] K smallest Elements (Hard)
 10. [ ] Counting Inversions (Hard)
 11. [ ] GeeksForGeeks - Trapping Rain Water (Hard)
-12. [ ] Stock Buy Sell to Maximize Profit (Medium)
+12. [x] [Stock Buy Sell to Maximize Profit (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/L.%20Stock%20Buy%20Sell%20to%20Maximize%20Profit%20(Medium))
 13. [ ] Print a given matrix in the spiral form (Medium)
 14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
 15. [ ] Largest Sum Contiguous Subarray (Medium)
