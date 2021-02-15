@@ -12,7 +12,7 @@
 10. [ ] Counting Inversions (Hard)
 11. [ ] GeeksForGeeks - Trapping Rain Water (Hard)
 12. [x] [Stock Buy Sell to Maximize Profit (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/L.%20Stock%20Buy%20Sell%20to%20Maximize%20Profit%20(Medium))
-13. [ ] Print a given matrix in the spiral form (Medium)
+13. [x] [Print a given matrix in the spiral form (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/M.%20Print%20a%20given%20matrix%20in%20the%20spiral%20form%20(Medium))
 14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
 15. [ ] Largest Sum Contiguous Subarray (Medium)
 16. [ ] Minimum Number of Platforms Required for a Railway/Bus Station (Medium)
