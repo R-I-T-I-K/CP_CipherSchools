@@ -19,6 +19,6 @@
 17. [x] [Find the Missing Number (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/Q.%20Find%20the%20Missing%20Number%20(Easy))
 18. [x] [Merge two sorted arrays (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/R.%20Merge%20two%20sorted%20arrays%20(Easy))
 19. [x] [Search an element in a sorted and rotated array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/S.%20Search%20an%20element%20in%20a%20sorted%20and%20rotated%20array%20(Medium))
-20. [ ] Create a dynamic array (Medium)
+20. [x] [Create a dynamic array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/T.%20Create%20a%20dynamic%20array%20(Medium))
 21. [ ] Find the smallest window in a string containing all characters of another string (Hard)
 22. [ ] H/W: Implement Searching/Sorting Algorithms - Binary Search, QuickSort, Merge Sort. Read about External Sort.
