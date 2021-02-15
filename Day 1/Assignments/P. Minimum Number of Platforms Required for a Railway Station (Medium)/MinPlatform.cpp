@@ -23,7 +23,7 @@ void minPlat(vector<int> arr,vector<int> dep)
       }
       else
       //otherwise we can decrement by one
-      //as platform will be empty
+      //as one platform will be empty as train will depart
       if(arr[i]>dep[j])
       {
          count--;
