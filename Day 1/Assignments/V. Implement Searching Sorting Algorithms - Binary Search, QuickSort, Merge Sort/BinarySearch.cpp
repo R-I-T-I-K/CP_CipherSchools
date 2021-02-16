@@ -2,9 +2,15 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
+//it is like divinding the array and then 
+//searching on that part only which is essential
+//recursive approach
+//l=left r=right
+
 int binarySearch(int arr[], int l, int r, int x) 
 { 
-	if (r >= l) { 
+	if (r >= l) 
+	{ 
 		int mid = l + (r - l) / 2; 
 
 		if (arr[mid] == x) 
@@ -22,9 +28,14 @@ int main(void)
 { 
 	int arr[] = { 2, 3, 4, 10, 40 }; 
 	int x = 40; 
-	int n = sizeof(arr) / sizeof(arr[0]); 
-	int result = binarySearch(arr, 0, n - 1, x); 
-	(result == -1) ? cout << "Element is not present in array"
-				: cout << "Element is present at index " << result; 
+	int n = sizeof(arr) / sizeof(arr[0]);
+	
+	int result = binarySearch(arr, 0, n - 1, x);
+	
+	if(result == -1)
+	{ cout << "Element is not present in array";}
+	else
+	{ cout << "Element is present at index " << result;} 
+		
 	return 0; 
 } 
