@@ -44,7 +44,7 @@ int main()
 	int n = sizeof(arr) / sizeof(arr[0]); 
 	quickSort(arr, 0, n - 1); 
 	cout << "Sorted array: \n"; 
-	for (i = 0; i < size; i++) 
+	for (i = 0; i < n; i++) 
 		cout << arr[i] << " "; 
 	cout << endl; 
 	return 0; 
