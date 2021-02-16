@@ -16,3 +16,6 @@
 15. [Largest Number after k swaps](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/LargestNumberAfterSwaps.cpp)
 16. [The Knight's tour problem | Backtracking-1 (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/Knight.cpp)
 17. [Leetcode #62 Unique Paths (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/UniquePaths.cpp)
+18. Excel Sheet Column Title
+19. Excel Sheet Column Number
+20. Count Trailing Zeros in a factorial
