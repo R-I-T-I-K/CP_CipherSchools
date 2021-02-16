@@ -21,4 +21,4 @@
 19. [x] [Search an element in a sorted and rotated array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/S.%20Search%20an%20element%20in%20a%20sorted%20and%20rotated%20array%20(Medium))
 20. [x] [Create a dynamic array (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/T.%20Create%20a%20dynamic%20array%20(Medium))
 21. [ ] Find the smallest window in a string containing all characters of another string (Hard)
-22. [ ] H/W: Implement Searching/Sorting Algorithms - Binary Search, QuickSort, Merge Sort. Read about External Sort.
+22. [x] [Implement Searching/Sorting Algorithms - Binary Search, QuickSort, Merge Sort.Read about External Sort.](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/V.Implement%20Searching%20Sorting%20Algorithms%20-%20Binary%20Search%2C%20QuickSort%2C%20Merge%20Sort.)
