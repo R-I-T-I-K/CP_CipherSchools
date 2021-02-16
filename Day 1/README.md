@@ -13,7 +13,7 @@
 11. [x] [GeeksForGeeks - Trapping Rain Water (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/K.%20Trapping%20Rain%20Water%20(Hard))
 12. [x] [Stock Buy Sell to Maximize Profit (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/L.%20Stock%20Buy%20Sell%20to%20Maximize%20Profit%20(Medium))
 13. [x] [Print a given matrix in the spiral form (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/M.%20Print%20a%20given%20matrix%20in%20the%20spiral%20form%20(Medium))
-14. [ ] Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)
+14. [x] [Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/N.%20Kth%20smallest%20element%20in%20a%20row-wise%20and%20column-wise%20sorted%202D%20array%20%7C%20Set%201%20(Hard))
 15. [x] [Largest Sum Contiguous Subarray (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/O.%20Largest%20Sum%20Contiguous%20Subarray%20(Medium))
 16. [x] [Minimum Number of Platforms Required for a Railway/Bus Station (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%201/Assignments/P.%20Minimum%20Number%20of%20Platforms%20Required%20for%20a%20Railway%20Station%20(Medium))
 17. [x] [Find the Missing Number (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/Q.%20Find%20the%20Missing%20Number%20(Easy))
