@@ -13,7 +13,7 @@
 13. [x]   [N Queens Problem (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/NQueens.cpp)
 14. [x]   [Generate IP Address (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/GenerateIP.cpp)
 15. [x]   [Power subset (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/PowerSubset.cpp)
-16. [ ]   [Largest Number after k swaps](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/LargestNumberAfterSwaps.cpp)
+16. [x]   [Largest Number after k swaps](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/LargestNumberAfterSwaps.cpp)
 17. [x]   [The Knight's tour problem | Backtracking-1 (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/Knight.cpp)
 18. [x]   [Leetcode #62 Unique Paths (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/UniquePaths.cpp)
 19. [x]   [Excel Sheet Column Title](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/ColumnTitle.cpp)
