@@ -1,7 +1,7 @@
 00. [x] [Implement (Singly/Doubly/Circular) LinkedList  class with CRUD operations](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/CRUDOp.cpp)
 01. [ ] [Reverse a linked list (Recursive /Iterative) (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/ReverseLL.cpp)
 02. [ ] [Palindromic Linked List (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Palindrome.cpp)
-03. [ ] [Add two numbers in the linked list (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/AddTwoNum.cpp)
+03. [x] [Add two numbers in the linked list (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/AddTwoNum.cpp)
 04. [ ] [Detect and remove a loop in the linked list (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/DetectnRemove.cpp)
 05. [ ] [Intersection point in the linked list (Easy to Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/IntersectionPt.cpp)
 06. [ ] [Merge k Sorted Linked Lists (Easy to Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/MergeSortLL.cpp))
