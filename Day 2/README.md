@@ -8,7 +8,7 @@
 08. [x]   [Rat in a maze (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/RatInMaze.cpp)
 09. [x]   [Palindrome Partitioning (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/PalindromePartition.cpp)
 10. [x]   [Valid Sudoku (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/ValidSudoku.cpp)
-11. [ ]   [Subset Sum | Backtracking-4 (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/SubsetSum.cpp)
+11. [x]   [Subset Sum | Backtracking-4 (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/SubsetSum.cpp)
 12. [x]   [Combination Of Number (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/CombNumber.cpp)
 13. [x]   [N Queens Problem (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/NQueens.cpp)
 14. [x]   [Generate IP Address (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%202/Assignment/GenerateIP.cpp)
