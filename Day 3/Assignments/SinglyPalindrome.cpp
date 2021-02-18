@@ -4,36 +4,35 @@ using namespace std;
 class Node 
 {
 public:
-		int data;
-		Node(int d)
-    {
-			data = d;
-		}
-		Node *ptr;
+	int data;
+	Node(int d)
+    	{
+		data = d;
+	}
+	Node *ptr;
 };
 
 bool isPalindrome(Node* head)
 {
-		Node* slow= head;
-
-		stack <int> s;
+	Node* slow= head;
+	stack <int> s;
  
-		while(slow != NULL)
-    {
-				s.push(slow->data);
-				slow = slow->ptr;
+	while(slow != NULL)
+    	{
+		s.push(slow->data);
+		slow = slow->ptr;
+	}
+	while(head != NULL )
+    	{ 
+		int i=s.top();
+		s.pop();
+		if(head -> data != i)
+      		{
+			return false;
 		}
-		while(head != NULL )
-    { 
-			int i=s.top();
-			s.pop();
-			if(head -> data != i)
-      {
-				return false;
-			}
 		head=head->ptr;
-		}
-return true;
+	}
+	return true;
 }
  
 int main()
@@ -54,7 +53,7 @@ int main()
 	int result = isPalindrome(&one);
 
 	if(result == 1)
-			cout<<"True\n";
+		cout<<"True\n";
 	else
 		cout<<"False\n";
 return 0;
