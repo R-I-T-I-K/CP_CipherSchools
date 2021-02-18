@@ -12,7 +12,7 @@
 11. [x] [Clone with Linked With Random Pointers (Medium to Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Clone.cpp)
 12. [x] [Reorder Linked List (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Reorder.cpp)
 13. [x] [Swap K nodes from the end (Medium to hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/SwapFrmEnd.cpp)
-14. [ ] [Reverse Alternate K nodes (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/ReverseAlter.cpp)
+14. [x] [Reverse Alternate K nodes (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/ReverseAlter.cpp)
 15. [ ] [Sort a linked list (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Sort.cpp)
 16. [ ] [Delete Node in linked List (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Delete.cpp)
 17. [ ] [Length of longest Palindrome (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/LPalindrome.cpp)
