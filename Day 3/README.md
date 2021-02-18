@@ -9,7 +9,7 @@
 08. [x] [Remove all occurrences of duplicates from a sorted Linked List (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/RemoveDuplicate.cpp)
 09. [x] [Merge two sorted linked lists (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/MergeSorted.cpp)
 10. [x] [Reverse Linked List in K groups (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/ReverseInGroup.cpp)
-11. [ ] [Clone with Linked With Random Pointers (Medium to Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Clone.cpp)
+11. [x] [Clone with Linked With Random Pointers (Medium to Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Clone.cpp)
 12. [x] [Reorder Linked List (Hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/Reorder.cpp)
 13. [ ] [Swap K nodes from the end (Medium to hard)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/SwapFrmEnd.cpp)
 14. [ ] [Reverse Alternate K nodes (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%203/Assignments/ReverseAlter.cpp)
