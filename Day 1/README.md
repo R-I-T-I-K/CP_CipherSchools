@@ -1,4 +1,4 @@
-## Searching And Sorting
+## Searching And Sorting Assignment
 
 1.  [x] [Two people meet each other (Easy)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/A.%20Two%20people%20meet%20each%20other%20(Easy))
 2.  [x] [Find Majority Element (Medium)](https://github.com/R-I-T-I-K/CP_CipherSchools/tree/main/Day%201/Assignments/B.%20Find%20Majority%20Element%20(Medium))
