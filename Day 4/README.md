@@ -1,4 +1,4 @@
-###STACK & QUEUES
+## Stack And Queues Assignment
 
 01. [ ] Implement Stack And Queues using Linked List, Arrays
 02. [ ] Get min elements from the stack in constant time. (Medium to Hard)
