@@ -28,15 +28,12 @@ int maxPalindrome(Node *head)
 
 	while (curr) 
 	{ 
-
 		Node *next = curr->next; 
 		curr->next = prev; 
 
-		result = max(result, 
-					2*countCommon(prev, next)+1); 
+		result = max(result, 2*countCommon(prev, next)+1); 
 
-		result = max(result, 
-					2*countCommon(curr, next)); 
+		result = max(result, 2*countCommon(curr, next)); 
 
 		prev = curr; 
 		curr = next; 
