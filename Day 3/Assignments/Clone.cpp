@@ -77,7 +77,7 @@ int main()
 	start->next->random = start; 
 	start->next->next->random = start->next->next->next->next; 
 	start->next->next->next->random = start->next->next->next->next; 
-  start->next->next->next->next->random = start->next; 
+        start->next->next->next->next->random = start->next; 
 
 	cout << "Original list : \n"; 
 	print(start); 
