@@ -3,7 +3,7 @@
 01. [x]   [Implement Stack And Queues using Linked List, Arrays](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/StackQueues.cpp)
 02. [x]   [Get min elements from the stack in constant time.](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/GetMin.cpp)
 03. [x]   [Reverse the stack/queue](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/ReverseSQ.cpp)
-04. [ ]   [Sort the stack/queue](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/SortSQ.cpp)
+04. [x]   [Sort the stack/queue](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/SortSQ.cpp)
 05. [ ]   [Implement Deque](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/ImplementDq.cpp)
 06. [x]   [Print the largest element in every k window](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/LarInKWin.cpp)
 07. [x]   [Largest Histogram](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/LargestHist.cpp)
