@@ -1,7 +1,7 @@
 ## Stack And Queues Assignment
 
 01. [x]   [Implement Stack And Queues using Linked List, Arrays](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/StackQueues.cpp)
-02. [ ]   [Get min elements from the stack in constant time.](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/GetMin.cpp)
+02. [x]   [Get min elements from the stack in constant time.](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/GetMin.cpp)
 03. [x]   [Reverse the stack/queue](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/ReverseSQ.cpp)
 04. [ ]   [Sort the stack/queue](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/SortSQ.cpp)
 05. [ ]   [Implement Deque](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/ImplementDq.cpp)
@@ -10,9 +10,9 @@
 08. [ ]   [Circular tour](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/CircularTour.cpp)    
 09. [x]   [Balanced Parenthesis](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/BalancedPara.cpp)
 10. [ ]   [Celebrity Problem](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/Celebrity.cpp)
-11. [ ]   [Merge Overlapping intervals](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/OverlappingInter.cpp)
+11. [x]   [Merge Overlapping intervals](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/OverlappingInter.cpp)
 12. [x]   [Next Greater Element in Array](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/NGE.cpp)
 13. [ ]   [Implement (stack/queue) using (queue/stack)](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/SQtoQS.cpp)
-14. [ ]   [Detect Duplicate Parenthesis](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/DupliPara.cpp)
-15. [ ]   [Nearest Smaller Number in Array](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/NSE.cpp)
+14. [x]   [Detect Duplicate Parenthesis](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/DupliPara.cpp)
+15. [x]   [Nearest Smaller Number in Array](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/NSE.cpp)
 16. [x]   [Evaluate Expression](https://github.com/R-I-T-I-K/CP_CipherSchools/blob/main/Day%204/Assignments/EvaluateExp.cpp)
