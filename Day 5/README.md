@@ -20,4 +20,4 @@
 17. [x] [Print Cousins of a given Nodes in a binary tree]()
 18. [x] [Print all nodes at K distance.]()
 19. [x] [Find Largest Subtree sum in Binary Tree]()
-20. [x] [Construct tree from inorder and postorder traversal]()
+20. [x] [Construct tree from inorder and postorder traversal](.)
