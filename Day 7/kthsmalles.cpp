@@ -19,7 +19,7 @@ int kthSmallestElement(vector<int>& vec, int k) {
 int main() {
     vector<int> vec = {7, 10, 4, 3, 19, 2, 14, 16, 4};
     for (int i = 0; i < vec.size(); i++) {
-        cout << kthSmallestElement(vec, i+1) << "\n";
+        cout << kthSmallestElement(vec, i+1) << endl;
     }
     
 }
